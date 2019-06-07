@@ -14,6 +14,7 @@
                      '[[org.clojure/tools.reader    "1.3.2"]
                        [com.cognitect/transit-cljs  "0.8.256"]
                        [malabarba/lazy-map          "1.3"]
+                       [andare "0.10.0"]
                        [fipp                        "0.6.18"]
                        [org.clojure/test.check      "0.10.0-alpha4" :scope "test"]
                        [com.cognitect/transit-clj   "0.8.313" :scope "test"]
